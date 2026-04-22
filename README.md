@@ -1,5 +1,5 @@
 # Top-10-SAS-Viya-Administration-Tasks
-Top 10 SAS® Viya® Administration Tasks
+If you want help understanding the role of a SAS®  Viya®  administrator or want to build confidence and improve the configuration, stability and performance of your SAS®  Viya®  deployment, this session is for you. Based on the SAS®  Viya®  Administration Checklist, this presentation will highlight 10 of the most important tasks every SAS®  Viya®  administrator needs to know about.
 
 ## Important Information
 
